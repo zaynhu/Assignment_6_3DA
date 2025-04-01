@@ -1,6 +1,3 @@
-# clust-omics2
-Clustering application on single-cell protecomics data
+# STATS 3DA3 A6
 
 This is the repository for the Stats 3DA3 Assignment 6
-
-Downloaded clustering omics repository from GitHub.
